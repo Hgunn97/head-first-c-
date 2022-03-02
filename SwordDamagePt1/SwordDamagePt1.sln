@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwordDamagePt1", "SwordDamagePt1\SwordDamagePt1.csproj", "{DB5ED105-3166-4BAD-852E-481B3329ABE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5ED105-3166-4BAD-852E-481B3329ABE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5ED105-3166-4BAD-852E-481B3329ABE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5ED105-3166-4BAD-852E-481B3329ABE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5ED105-3166-4BAD-852E-481B3329ABE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF38C02F-87E6-4D40-928C-BE731611558B}
+	EndGlobalSection
+EndGlobal

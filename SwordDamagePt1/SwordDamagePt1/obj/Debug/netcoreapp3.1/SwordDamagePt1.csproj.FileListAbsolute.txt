@@ -1,0 +1,14 @@
+C:\Users\GunnH\Github\head-first-csharp\SwordDamagePt1\SwordDamagePt1\bin\Debug\netcoreapp3.1\SwordDamagePt1.exe
+C:\Users\GunnH\Github\head-first-csharp\SwordDamagePt1\SwordDamagePt1\bin\Debug\netcoreapp3.1\SwordDamagePt1.deps.json
+C:\Users\GunnH\Github\head-first-csharp\SwordDamagePt1\SwordDamagePt1\bin\Debug\netcoreapp3.1\SwordDamagePt1.runtimeconfig.json
+C:\Users\GunnH\Github\head-first-csharp\SwordDamagePt1\SwordDamagePt1\bin\Debug\netcoreapp3.1\SwordDamagePt1.runtimeconfig.dev.json
+C:\Users\GunnH\Github\head-first-csharp\SwordDamagePt1\SwordDamagePt1\bin\Debug\netcoreapp3.1\SwordDamagePt1.dll
+C:\Users\GunnH\Github\head-first-csharp\SwordDamagePt1\SwordDamagePt1\bin\Debug\netcoreapp3.1\SwordDamagePt1.pdb
+C:\Users\GunnH\Github\head-first-csharp\SwordDamagePt1\SwordDamagePt1\obj\Debug\netcoreapp3.1\SwordDamagePt1.csproj.AssemblyReference.cache
+C:\Users\GunnH\Github\head-first-csharp\SwordDamagePt1\SwordDamagePt1\obj\Debug\netcoreapp3.1\SwordDamagePt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GunnH\Github\head-first-csharp\SwordDamagePt1\SwordDamagePt1\obj\Debug\netcoreapp3.1\SwordDamagePt1.AssemblyInfoInputs.cache
+C:\Users\GunnH\Github\head-first-csharp\SwordDamagePt1\SwordDamagePt1\obj\Debug\netcoreapp3.1\SwordDamagePt1.AssemblyInfo.cs
+C:\Users\GunnH\Github\head-first-csharp\SwordDamagePt1\SwordDamagePt1\obj\Debug\netcoreapp3.1\SwordDamagePt1.csproj.CoreCompileInputs.cache
+C:\Users\GunnH\Github\head-first-csharp\SwordDamagePt1\SwordDamagePt1\obj\Debug\netcoreapp3.1\SwordDamagePt1.dll
+C:\Users\GunnH\Github\head-first-csharp\SwordDamagePt1\SwordDamagePt1\obj\Debug\netcoreapp3.1\SwordDamagePt1.pdb
+C:\Users\GunnH\Github\head-first-csharp\SwordDamagePt1\SwordDamagePt1\obj\Debug\netcoreapp3.1\SwordDamagePt1.genruntimeconfig.cache
